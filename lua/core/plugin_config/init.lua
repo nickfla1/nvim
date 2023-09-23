@@ -6,3 +6,7 @@ require('core.plugin_config.telescope')
 require('core.plugin_config.lsp_config')
 require('core.plugin_config.rust_config')
 require('core.plugin_config.completions')
+--require('core.plugin_config.toggleterm')
+
+require('core.plugin_config.blankline')
+require('core.plugin_config.gitsigns')
